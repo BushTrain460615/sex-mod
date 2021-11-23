@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				30
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-1310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-1263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-1301
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "booba_bite",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-1310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "booba_bite"
+		},
+		{
+			"offsets": [
+				10,
+				-1270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "booba_bite"
+		},
+		{
+			"offsets": [
+				0,
+				-1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "booba_bite"
+		},
+		{
+			"offsets": [
+				20,
+				-1187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "booba_bite"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gffirstboobabite",
+	"position": [
+		-780,
+		-330
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		175,
+		209
+	],
+	"camera_position": [
+		140,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

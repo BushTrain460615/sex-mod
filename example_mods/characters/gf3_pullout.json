@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				530,
+				400
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "booba_coomsus",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				530,
+				400
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "boobajob",
+			"indices": []
+		},
+		{
+			"offsets": [
+				529,
+				403
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "thrust"
+		},
+		{
+			"offsets": [
+				530,
+				402
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "done_coom"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				569,
+				403
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "done_pullout",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfthirdpullout",
+	"position": [
+		95,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-170,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
